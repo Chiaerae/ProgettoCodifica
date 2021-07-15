@@ -1,0 +1,12 @@
+<!--Author:Chiara Bresciani-->
+<!--Matricola:562017-->
+<!--Spiegare la seguente grammatica-->
+
+<!ELEMENT TEI (header, facsimile?, text+)>
+<!--Elemento root: figli header(una sola volta obbligatoria),facsimile(0 o 1 volta), text(una volta o più)-->
+<!ELEMENT header (#PCDATA)>
+<!--Elemento header: content model testuale-->
+<!ELEMENT facsimile (#PCDATA)>
+<!--Elemento facsimile: content model testuale-->
+<!ELEMENT text (#PCDATA)>
+<!--Elemento text: content model testuale-->

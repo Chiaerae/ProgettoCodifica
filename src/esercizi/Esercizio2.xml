@@ -1,0 +1,12 @@
+<!--Author: Chiara Bresciani
+Matricola: 562017-->
+<!-- esercizio 2: aggiungere figli e fratelli a un elemento (text)-->
+<?xml version="1.0" encoding="utf-8"?>
+<text> validazione foglio xml
+   <!-- aggiungo il figlio name all'elemento text-->
+   <name> Chiara  </name>
+   <surname> Bresciani</surname>
+</text>
+<!-- aggiungo il fratello text all'elemento text-->
+<text> Aggiunta di figli e fratelli all'elemento text
+</text>
