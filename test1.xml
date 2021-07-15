@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- collegare foglio xml a foglio di stile xsl per creare file in html-->
+<test>
+<msg n="1"> messaggio file </msg>
+</test>
