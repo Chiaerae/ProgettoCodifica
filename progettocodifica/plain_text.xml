@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Marcare un testo plain text di circa 3000 caratteri a piacere.
+  Filename: plain_text.xml
+  Author: Chiara Bresciani
+  Date: 26/06/2021 -->
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI>
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+        <title>Dracula</title>
+        <respStmt>
+          <resp>Conversione TEI a cura di</resp>
+          <name>Chiara Bresciani</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <publisher>Project Gutenberg's</publisher>
+        <date> October, 1995 </date>
+
+        
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Dracula</title>
+          <author>Bram Stoker </author>
+          <publisher>NEW YORK GROSSET e DUNLAP</publisher>
+          <pubPlace> <name>NY </name> </pubPlace>
+          <date value="1892-10-14">14 October 1892</date>
+          <availability>
+                    <p>All rights reserved.</p>
+                </availability>
+            <distributor> THE COUNTRY LIFE PRESS
+            <pubPlace> GARDEN CITY, NY </pubPlace>
+            </distributor>
+        </bibl>
+      </sourceDesc>
+
+    </fileDesc>
+
+</teiHeader>
+
+  <text xml:lang="en">
+  <front>
+  <p>
+This eBook is for the use of anyone anywhere in the United
+States and most other parts of the world at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org.
+  </p> </front>
+
+  <body>
+  <div type="chapter">
+  <head> CHAPTER I - JONATHAN HARKER’S JOURNAL </head>
+  <p>
+  <opener> <dateline> 3 May.   —Left <name type="place"> 
+Munich </name> at 8:35 P. M.</dateline> </opener>, on 1st May, arriving at <name type="place">Vienna </name> early next morning;
+should have arrived at 6:46, but train was an hour late. <distinct>Buda-Pesth</distinct> seems a wonderful place,
+from the glimpse which I got of it from the train and the little I could walk through the streets.
+I feared to go very far from the station, as we had arrived late and would start as near the correct
+time as possible. The impression I had was that we were leaving the West and entering the East;
+the most western of splendid bridges over the Danube, which is here of noble width and depth,
+took us among the traditions of Turkish rule.
+  </p>
+<p> We left in pretty good time, and came after nightfall to <name type="place"> Klausenburgh</name>.
+Here I stopped for the night at the Hotel Royale.
+I had for dinner, or rather supper, a chicken done up some way with red pepper,
+which was very good but thirsty. (Mem., get recipe for Mina.)
+I asked the waiter, and he said it was called “paprika hendl,” and that, as it was a national dish, I should be able to get it anywhere along the Carpathians.
+I found my smattering of German very useful here; indeed,
+I don’t know how I should be able to get on without it.
+</p>
+
+<p>
+Having had some time at my disposal when in <name type="place">London </name>, I had visited the British Museum,
+ and made search among the books and maps in the library regarding Transylvania;
+it had struck me that some foreknowledge of the country could hardly fail to have
+some importance in dealing with a nobleman of that country.
+I find that the district he named is in the extreme east of the country,
+ just on the borders of three states, <name type="place">Transylvania </name>, <name type="place">Moldavia </name> and Bukovina,
+  in the midst of the Carpathian mountains; one of the wildest and least known portions of Europe.
+</p>
+</div>
+</body>
+</text> 
+</TEI>
