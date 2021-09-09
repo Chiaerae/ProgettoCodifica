@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Codifica di un articolo scientifico.
+  Filename: articolo.xml
+  Author: Chiara Bresciani
+  Date: 21/07/2021 -->
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.teic.org/ns/1.0">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+        <title>Sessualità. È vero che le relazioni omo funzionano meglio di quelle etero? </title>
+         <respStmt>
+          <resp>Codificato da </resp>
+          <name xml:id="CB">Chiara Bresciani</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Focus</distributor>
+        <availability>
+         <p>© Copyright 2021 Mondadori Scienza Spa - riproduzione riservata </p>
+        </availability>
+        <date when="08/07/2021">8 luglio 2021</date>
+      </publicationStmt>
+      <sourceDesc>
+      <listPlace>
+                    <place xml:id="CL">
+                        <placeName>California</placeName>
+                        <district type="comune">California</district>
+                        <country key="N">USA</country>
+                    </place>
+        </listPlace>
+        <bibl>
+          <title level="a"> Sessualità. È vero che le relazioni omo funzionano meglio di quelle etero? </title>
+          <author>
+            <forename>Margherita</forename>
+            <surname>Zannoni</surname> 
+          </author>
+         
+          <publisher>Focus</publisher>
+
+          <date when="08/07/2021"> 8 luglio 2021 </date>
+        </bibl>
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+<text>
+    <body>
+    <div type="article">
+        <head>COPPIE OMO ED ETERO A CONFRONTO</head>
+        
+        <p type="paragraph" n="ph2">
+        <title type="principale" rend="uppercase"> COPPIE OMO ED ETERO A CONFRONTO. </title> 
+            Uno <ptr target="https://journals.sagepub.com/doi/10.1177/0265407520961840nuovo" /> studio di un team di ricercatori dell' <ptr target="https://www.ucr.edu/" />Università della <nameplace ref="#USA">
+            California </nameplace>  Riverside ha infatti confrontato recentemente la qualità delle interazioni 
+            quotidiane tra i partner di coppie <term> omosessuali </term>  ed <term> eterosessuali </term>.
+            E gli studiosi hanno incontrato in due occasioni coppie sposate
+         o conviventi da almeno un anno, sottoponendo loro dei questionari. </p>
+         <p type="paragraph" n="ph3" >
+         <title type="subordinato" rend="uppercase"> LE DOMANDE DEI RICERCATORI. </title> 
+            Inoltre, i partecipanti di ciascuna coppia omo o etero sono stati 
+            contattati più volte dai ricercatori per chiedere loro se avessero
+            avuto un'interazione con il proprio partner nei <num type="cardinal"> 10 </num> minuti precedenti, 
+            e di valutarla su una scala da <num type="cardinal">1 </num> (spiacevole) a<num type="cardinal">5 </num> (piacevole).
+
+         </p> 
+          
+         <p type="paragraph" n="ph4" >
+         <hi rend="uppercase"> DISPARITÀ TRA MASCHI E FEMMINE. </hi> 
+            Risultato? I protagonisti delle coppie <term> omosessuali </term> hanno
+            riferito interazioni più soddisfacenti. 
+            Come mai? Gli autori dello studio ipotizzano 
+            che ciò sia dovuto alla maggiore somiglianza tra i partner,
+            che condividono l'identità di genere oltre che ruoli più
+            paritari: non vi è insomma il problema della disparità 
+            tra femminile e maschile, imposta dalla cultura, 
+            che è spesso fonte di tensione nelle coppie etero.
+        </p>
+      </div>
+      </body>
+    </text>
+  </TEI>
